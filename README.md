@@ -191,9 +191,6 @@ This tool is built for **educational purposes** as a final year project. Always 
 
 ---
 
-## 👤 Author
-
-**Final Year ML Project – 2024**  
 Built with Python · scikit-learn · NLTK · Streamlit
 
 ---
